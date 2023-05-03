@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/althafmuhd_" target="blank"><img src="https://img.shields.io/twitter/follow/althafmuhd_?logo=twitter&style=for-the-badge" alt="althafmuhd_" /></a> </p>
 
-- 🌱 I’m currently learning **Angular,React**
+- 🌱 I’m currently learning **Angular,React,MongoDB,NodeJs,Express**
 
 - 👨‍💻 My Personal Portfolio [https://althafkv-portfolio.netlify.app/](https://althafkv-portfolio.netlify.app/)
 
